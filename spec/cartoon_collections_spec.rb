@@ -66,3 +66,22 @@ describe "Cartoon Collections" do
     end
   end
 end
+
+puts["Doc","Dopey", "Bashful", "Grumpy"]
+#=> Doc, Dopey, Bashful, Grumpy
+
+captian_planet = ["earth", "wind", "fire", "water" "air", "heart"]
+captain_planter (captain calling all)
+#=> ["Earth!", "Wind!", "Fire!", "Water!", "Air!", "Heart!"].map
+
+calls_short = ["wait", "high-ground", "retake"]
+longer_calls(short_words)
+#=> false
+
+assorted_words = ["two", "three", "four", "five"]
+longer_calls(assorted_words)
+#=> true
+
+snacks = ["chips", "ceral", "organic non-gmo no dairy cookies"]
+find_the_organic(snacks)
+#=> "organic non-gmo no dairy cookies"

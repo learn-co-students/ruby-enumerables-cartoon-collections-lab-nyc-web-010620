@@ -29,3 +29,5 @@ def find_the_cheese(stuff_array)
   end
   nil
 end
+
+#stuff_array.find { |food| cheese_types.include?(food)}
